@@ -50,13 +50,6 @@ sections:
   match: "**/*"
   templates:
   - project
-- type: directory
-  path: exampleSite/content/french/project
-  label: Project (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - project
 - type: heading
   label: Other Pages
 - type: directory
