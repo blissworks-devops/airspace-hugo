@@ -13,15 +13,12 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  description: Blissworks is a services business unit of Fourth Quadrant Labs Pvt Ltd, a decade old leading IT Consulting Firm providing niche solutions to the organizations across the globe. Our partners & technologies include Cisco, VMware, NetApp, Microsoft, RedHat, HP, Coohesity, Veeam.
+  content: We are a team leaded by exceptional professionals with decades of experience in providing operational excellence.
+  
+Our engineer collaborative approach in creating tailored enterprise-grade solutions enables clients to offload their IT burden and focus on their primary organizational goals. By aligning business objectives with the most suitable technology, we make digital transformation a reality.
+
+We create great opportunities for our clients to innovate and achieve operational agility, scalability and increased efficiency by harnessing the power of private and public clouds, such as AWS, AZURE, GCP, VMware and Openstack.
   image: images/wrapper-img.png
 portfolio:
   enable: true
