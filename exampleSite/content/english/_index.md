@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: Blissworks <br/> & Design Agency
+  title: Blissworks <br/> & Consulting and Advanced Managed Services
   content: Freeing you from the burden of legacy IT systems and empowering you to
     harness the full potential of Cloud
   button:
